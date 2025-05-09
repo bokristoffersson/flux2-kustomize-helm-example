@@ -10,9 +10,8 @@ spec:
   test:
     enable: false
   values:
-    replicaCount: 2
     ui:
-      color: "#333333"
+      color: "#ff8200"
     ingress:
       hosts:
         - host: podinfo.staging
